@@ -1,2 +1,2 @@
 # CSS
-###### Cascading Style Sheets self-study
+###### [Cascading Style Sheets] self-study
