@@ -1,9 +1,9 @@
 ###### calc()
 ```css
 #contents {
-  height: calc(100vh - 50px);
-  width: 100%;
-  margin: 15px;
-  left: 180px;
+  width: calc(100% - 200px);
+  height: calc(100vh - 60px - padding);
+  padding: 20px;
+  background-color: #ebeef0;
 }
 ```
