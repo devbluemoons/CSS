@@ -13,7 +13,9 @@
 		margin: 1.6cm !important;
 	}
 	a:after {
-		content: " [" attr(href) "] ";text-decoration: none;display: inline;
+		content: " [" attr(href) "] ";
+		text-decoration: none;
+		display: inline;
 	}
 	a:link, a:visited {
 		text-decoration: underline;
