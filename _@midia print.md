@@ -6,6 +6,12 @@
 
 @media print {
 	
+	@page {
+		margin: 0 !important; 
+	}
+	body {
+		margin: 1.6cm !important;
+	}
 	a:after {
 		content: " [" attr(href) "] ";text-decoration: none;display: inline;
 	}
@@ -20,20 +26,24 @@
 		height:100% !important;
 		width:100% !important;
 	}
-	#header, #side-wrapper, .titleBox .loadBox, .btnArea, .btnRight, .btn_info {
-		display:none;
+	#header, #side-wrapper, .btnArea, .btnRight, .btn_info {
+		display:none !important;
 	}
 	#contentArea {
-		width:100% !important;padding:0px;background-color:#fff;
+		width:100% !important;
+		padding:0px;
+		background-color:#fff;
 	}
 	.chartFrame2 {
 		border:none;
 	}
 	canvas {
-		width:100% !important;display:inline-block;
+		width:100% !important;
+		display:inline-block;
 	}
 	.seltype01 {
-		border:none;background:none;
+		border:none;
+		background:none;
 	}
 	.calBox2 a {
 		display:none;
@@ -45,7 +55,8 @@
 		content:"" !important; 
 	}
 	input[type="text"], .calBox2 input {
-		border:none !important;background-color:#fff;
+		border:none !important;
+		background-color:#fff;
 	}
 	.page_wrap {
 		display:none;
@@ -55,9 +66,6 @@
 	}
 	.tblBox {
 		margin-bottom:30px !important;
-	}
-	#policy #TYPE_1 {
-		width:50%;
 	}
 }
 ```
