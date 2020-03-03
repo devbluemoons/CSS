@@ -71,3 +71,5 @@
 	}
 }
 ```
+  
+참조 : https://stackoverflow.com/questions/8228088/remove-header-and-footer-from-window-print
