@@ -10,3 +10,10 @@
   background: #ebeef0;
 }
 ```
+###### checkbox alignment
+```css
+.checkbox_align {
+    position: relative;
+    top: number of pixel;
+}
+```
