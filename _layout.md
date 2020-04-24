@@ -17,3 +17,4 @@
     top: number of pixel;
 }
 ```
+[Ref.] https://stackoverflow.com/questions/306252/how-to-align-checkboxes-and-their-labels-consistently-cross-browsers
