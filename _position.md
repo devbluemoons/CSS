@@ -1,6 +1,7 @@
 ###### sticky
 ```css
 thead th {
+	z-index: 9999;
 	background: #ddebf5; 
 	font-weight: bold; 
 	position: sticky;
