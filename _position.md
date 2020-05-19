@@ -10,7 +10,7 @@ thead th {
   
 ###### set border for sticky thead 
 ```css
-th:before{
+th:before {
 	content:'';
 	position:absolute;
 	left: 0;
@@ -19,7 +19,7 @@ th:before{
 	border-top:1px solid #7d9aae;
 }
 
-th:after{
+th:after {
 	content:'';
 	position:absolute;
 	left: 0;
