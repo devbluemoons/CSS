@@ -2,5 +2,5 @@
   
 ###### border-collapse
 - collapse
-- separate
+- separate  
 [Ref.] https://developer.mozilla.org/ko/docs/Web/CSS/border-collapse
