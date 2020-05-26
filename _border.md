@@ -7,7 +7,7 @@
 ---  
   
 ###### border-collapse
-- collapse
-- separate  
+- collapse : sharing border area
+- separate : has area each border section   
   
 [Ref.] https://developer.mozilla.org/ko/docs/Web/CSS/border-collapse
