@@ -11,3 +11,11 @@ td {
   ellipsis; max-width:120px;
 }
 ```
+  
+###### Avoid line break between html elements
+```css
+th {
+  white-space: nowrap;
+}
+```
+[Ref.] https://stackoverflow.com/questions/19212188/avoid-line-break-between-html-elements
