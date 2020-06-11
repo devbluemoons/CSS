@@ -12,3 +12,21 @@ td[rowspan] {
     border-bottom: none; 
 }
 ```
+  
+###### multiple class selector (contained class-name)
+```html
+<div class="something001"></div>
+<div class="something002"></div>
+<div class="something003"></div>
+<div class="something004"></div>
+<div class="something005"></div>
+```
+```css
+[class^= something] {
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+}
+```
