@@ -30,3 +30,4 @@ td[rowspan] {
     background-color: lightblue;
 }
 ```
+[Ref.] https://stackoverflow.com/questions/9836151/what-is-this-css-selector-class-span  
