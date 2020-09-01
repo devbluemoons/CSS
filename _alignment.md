@@ -12,7 +12,7 @@
 }
 ```
 ###### justify-content
-- must set before using justify attribute
+- before using justify attribute, we must set
 ```css
 display : flex;
 ```
